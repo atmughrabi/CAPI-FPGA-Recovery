@@ -1,6 +1,10 @@
 
 #  CAPI FPGA Recovery for Nallatech P385-A7
 
+## Problem
+
+You flash you FPGA card with a faulty image, and it stops showing up in you Power System.
+
 ## Dependencies
 
 ### FPGA
