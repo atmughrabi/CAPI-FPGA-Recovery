@@ -14,7 +14,7 @@ You flash your FPGA card with a faulty image, and it stops showing up in you Pow
 1. Starting from release 15.0 of Quartus II should be fine.
 2. USB blaster, for flashing the FPGA Card.
 
-## Steps
+# Steps
 
 1. Open the Quartus GUI, then click on the "Hardware Setup" button on top left.  
 2. Another box should pop up. 
