@@ -3,7 +3,7 @@
 
 ## Problem
 
-You flash you FPGA card with a faulty image, and it stops showing up in you Power System.
+You flash your FPGA card with a faulty image, and it stops showing up in you Power System.
 
 ## Dependencies
 
